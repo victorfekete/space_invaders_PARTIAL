@@ -1,0 +1,6 @@
+În acest joc, am implementat o varietate de funcționalități. Avem un jucător controlat de tine, reprezentat de un dreptunghi albastru pe ecran. 
+Scopul jocului este să eviți coliziunile cu extratereștrii verzi care se mișcă pe ecran. Extratereștrii se mișcă în stânga și în dreapta și pot trage gloanțe spre tine.
+Am adăugat, de asemenea, un sistem de scor, care crește atunci când elimini extratereștrii. Scorul este afișat în timpul jocului în colțul din dreapta sus al ecranului. 
+Jocul se desfășoară pe nivele, iar dificultatea crește pe măsură ce avansezi.
+Pentru a face jocul mai interesant, am inclus un cronometru care măsoară cât timp petreci jucând.
+La sfârșitul jocului, afișăm un mesaj "Game Over" și scorul tău final. Poți reporni jocul făcând clic pe butonul "Restart".
